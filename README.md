@@ -4,7 +4,7 @@ Django is an extremely popular open-source Python-based web framework, designed 
 Prerequisites: 
 ✅ Visual Studio Code (https://code.visualstudio.com/download)  
 ✅ Python (https://www.python.org/downloads)  
-✅ PayPal developer account (https://developer.paypal.com/docs/get-started/)   
+
 
 # Design Pattern-FinalProject-using-Django
 
